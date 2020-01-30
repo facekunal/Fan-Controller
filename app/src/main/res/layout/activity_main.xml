@@ -30,5 +30,9 @@
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginLeft="@dimen/default_margin"
         android:layout_marginRight="@dimen/default_margin"
-        android:layout_marginTop="@dimen/default_margin"/>
+        android:layout_marginTop="@dimen/default_margin"
+        app:fanColorDef="#929292"
+        app:fanColor1="#609E4A"
+        app:fanColor2="#309400"
+        app:fanColor3="#016B0D" />
 </androidx.constraintlayout.widget.ConstraintLayout>
